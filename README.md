@@ -2,7 +2,7 @@
 
 主要文件在clash文件夹下，只是一些规则碎片，可以配合一些订阅转换进行使用。
 
-项目里/Clash/config/目录下存放的是 [subconverter](https://github.com/tindy2013/subconverter/blob/master/README-cn.md#外部配置)的 配置示例
+项目里/config/目录下存放的是 [subconverter](https://github.com/tindy2013/subconverter/blob/master/README-cn.md#外部配置)的 配置示例
 
 | 文件                   | 类型                 | 解释                                                         |
 | ---------------------- | -------------------- | ------------------------------------------------------------ |
