@@ -5,11 +5,6 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,uizph.com
-DOMAIN-SUFFIX,ghp.ci
-DOMAIN-SUFFIX,xeton.dev
-DOMAIN-SUFFIX,xmrth.lol
-DOMAIN-SUFFIX,maoxiongnet.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
