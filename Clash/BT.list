@@ -1,16 +1,18 @@
 # BT下载，设置直连，避免走代理
 
 # Mac Download
-PROCESS-NAME,aria2c.exe
-PROCESS-NAME,fdm.exe
-PROCESS-NAME,Folx.exe
-PROCESS-NAME,NetTransport.exe
-PROCESS-NAME,Thunder.exe
-PROCESS-NAME,Transmission.exe
-PROCESS-NAME,uTorrent.exe
-PROCESS-NAME,WebTorrent.exe
-PROCESS-NAME,WebTorrent Helper.exe
-PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,aria2c
+PROCESS-NAME,BitComet
+PROCESS-NAME,transmission-qt
+PROCESS-NAME,fdm
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,Thunder
+PROCESS-NAME,Transmission
+PROCESS-NAME,uTorrent
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
+PROCESS-NAME,qbittorrent
 
 # bt
 DOMAIN-SUFFIX,smtp

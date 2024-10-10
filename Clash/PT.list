@@ -1,5 +1,8 @@
 # PT下载，设置直连，避免走代理
 
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,hddolby
 DOMAIN-KEYWORD,pandapt
 DOMAIN-KEYWORD,haidan
@@ -8,7 +11,6 @@ DOMAIN-KEYWORD,rousi
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,btschool
 DOMAIN-KEYWORD,pttime
-DOMAIN-KEYWORD,ptlsp
 DOMAIN-KEYWORD,soulvoice
 DOMAIN-KEYWORD,hdfans
 DOMAIN-KEYWORD,hdvideo
@@ -17,6 +19,3 @@ DOMAIN-KEYWORD,1ptba
 DOMAIN-KEYWORD,hdkyl
 DOMAIN-KEYWORD,ptvicomo
 DOMAIN-KEYWORD,kelu
-
-# 正则匹配
-URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|info_hash|peer_id=)(..+)?
