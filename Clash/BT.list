@@ -7,12 +7,20 @@ PROCESS-NAME,transmission-qt
 PROCESS-NAME,fdm
 PROCESS-NAME,Folx
 PROCESS-NAME,NetTransport
+PROCESS-NAME,transmission-daemon
 PROCESS-NAME,Thunder
 PROCESS-NAME,Transmission
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,qbittorrent
+PROCESS-NAME,v2ray
+PROCESS-NAME,ss-local
+PROCESS-NAME,trojan-go
+PROCESS-NAME,xray
+PROCESS-NAME,hysteria
+PROCESS-NAME,UUBooster
+PROCESS-NAME,uugamebooster
 
 # bt
 DOMAIN-SUFFIX,smtp
