@@ -4,6 +4,11 @@
 DOMAIN-SUFFIX,xmrth.com
 DOMAIN-SUFFIX,gaytor.rent
 
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,movie-pilot.org
+DOMAIN-SUFFIX,api.wcc.best
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,gaytor
