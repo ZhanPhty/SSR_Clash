@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,api.wcc.best
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,ubits.club
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
